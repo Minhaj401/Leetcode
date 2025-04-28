@@ -17,7 +17,7 @@ This repository contains my solutions to various LeetCode problems that I solve 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-solutions.git
+   git clone https://github.com/Minhaj401/Leetcode.git
 Browse through the files.
 
 Each file is typically named after the problem title or ID.
