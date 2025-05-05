@@ -9,6 +9,7 @@ class Solution(object):
             while b:
                 a, b = b, a % b
             return a
+        
 
         smallest = min(nums)
         largest = max(nums)
