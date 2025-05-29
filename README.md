@@ -24,7 +24,7 @@ Browse through the files.
 
 
 
-Each file is typically named after the problem title or ID.
+Each file is typically named after the problem title.
 
 ## 🌟 Notes
 
