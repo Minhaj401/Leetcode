@@ -57,4 +57,12 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+## Sorting
+|  |
+| ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 <!---LeetCode Topics End-->
