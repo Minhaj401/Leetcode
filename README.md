@@ -65,4 +65,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
