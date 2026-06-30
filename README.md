@@ -60,6 +60,7 @@ Each file is typically named after the problem title.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Sorting
 |  |
@@ -69,4 +70,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
