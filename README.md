@@ -62,10 +62,12 @@ Each file is typically named after the problem title.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
