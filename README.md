@@ -60,6 +60,7 @@ Each file is typically named after the problem title.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -67,6 +68,7 @@ Each file is typically named after the problem title.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String
@@ -76,6 +78,7 @@ Each file is typically named after the problem title.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
