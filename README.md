@@ -63,6 +63,7 @@ Each file is typically named after the problem title.
 | [0015-3sum](https://github.com/Minhaj401/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -72,6 +73,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0015-3sum](https://github.com/Minhaj401/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -85,6 +87,7 @@ Each file is typically named after the problem title.
 | [0015-3sum](https://github.com/Minhaj401/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
