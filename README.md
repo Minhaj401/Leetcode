@@ -65,6 +65,7 @@ Each file is typically named after the problem title.
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -77,6 +78,7 @@ Each file is typically named after the problem title.
 | [0015-3sum](https://github.com/Minhaj401/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -102,6 +104,7 @@ Each file is typically named after the problem title.
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Monotonic Stack
