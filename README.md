@@ -46,6 +46,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Each file is typically named after the problem title.
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ Each file is typically named after the problem title.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Minhaj401/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
