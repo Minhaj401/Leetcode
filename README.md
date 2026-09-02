@@ -128,4 +128,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Minhaj401/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
