@@ -73,6 +73,7 @@ Each file is typically named after the problem title.
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Minhaj401/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -107,6 +108,7 @@ Each file is typically named after the problem title.
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Each file is typically named after the problem title.
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
 ## Database
 |  |
 | ------- |
