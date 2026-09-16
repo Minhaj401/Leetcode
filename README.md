@@ -123,6 +123,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0507-perfect-number](https://github.com/Minhaj401/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0728-self-dividing-numbers) |
 ## Matrix
 |  |
 | ------- |
