@@ -91,6 +91,7 @@ Each file is typically named after the problem title.
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
@@ -114,6 +115,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -188,4 +190,12 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
