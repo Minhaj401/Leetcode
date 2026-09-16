@@ -127,6 +127,7 @@ Each file is typically named after the problem title.
 | [0507-perfect-number](https://github.com/Minhaj401/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -148,4 +149,20 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
