@@ -94,6 +94,7 @@ Each file is typically named after the problem title.
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ Each file is typically named after the problem title.
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Monotonic Stack
 |  |
@@ -178,6 +180,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Minhaj401/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Minhaj401/Leetcode/tree/master/0231-power-of-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -198,4 +201,5 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
