@@ -72,6 +72,7 @@ Each file is typically named after the problem title.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Minhaj401/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Minhaj401/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -145,6 +146,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
 ## Database
 |  |
 | ------- |
