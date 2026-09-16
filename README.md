@@ -123,6 +123,7 @@ Each file is typically named after the problem title.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Minhaj401/Leetcode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Minhaj401/Leetcode/tree/master/0507-perfect-number) |
@@ -153,6 +154,7 @@ Each file is typically named after the problem title.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -179,4 +181,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Minhaj401/Leetcode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
