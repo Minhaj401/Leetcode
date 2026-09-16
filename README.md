@@ -91,6 +91,7 @@ Each file is typically named after the problem title.
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
@@ -126,6 +127,7 @@ Each file is typically named after the problem title.
 | [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Minhaj401/Leetcode/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Minhaj401/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -137,6 +139,7 @@ Each file is typically named after the problem title.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
