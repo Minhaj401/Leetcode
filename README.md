@@ -47,6 +47,7 @@ Each file is typically named after the problem title.
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/Minhaj401/Leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Each file is typically named after the problem title.
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/Minhaj401/Leetcode/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
