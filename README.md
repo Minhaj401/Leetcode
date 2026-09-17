@@ -49,6 +49,7 @@ Each file is typically named after the problem title.
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Minhaj401/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Minhaj401/Leetcode/tree/master/1544-make-the-string-great) |
+| [3174-clear-digits](https://github.com/Minhaj401/Leetcode/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Each file is typically named after the problem title.
 | [1544-make-the-string-great](https://github.com/Minhaj401/Leetcode/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Minhaj401/Leetcode/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Each file is typically named after the problem title.
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
+| [3174-clear-digits](https://github.com/Minhaj401/Leetcode/tree/master/3174-clear-digits) |
 ## Database
 |  |
 | ------- |
