@@ -1,7 +1,7 @@
 class Solution:
     def clearDigits(self, s: str) -> str:
 
-        stack = deque()
+        stack = list()
 
         for ch in s:
             if ch.islower(): stack.append(ch)
