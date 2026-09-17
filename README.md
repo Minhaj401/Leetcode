@@ -69,6 +69,7 @@ Each file is typically named after the problem title.
 | [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Minhaj401/Leetcode/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -213,4 +214,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Minhaj401/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Minhaj401/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
