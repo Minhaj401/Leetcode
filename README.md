@@ -44,6 +44,7 @@ Each file is typically named after the problem title.
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Minhaj401/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -97,6 +98,7 @@ Each file is typically named after the problem title.
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Minhaj401/Leetcode/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
