@@ -216,6 +216,7 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Minhaj401/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -241,4 +242,12 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Minhaj401/Leetcode/tree/master/1051-height-checker) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Minhaj401/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Minhaj401/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
