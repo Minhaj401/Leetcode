@@ -74,6 +74,7 @@ Each file is typically named after the problem title.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Minhaj401/Leetcode/tree/master/0704-binary-search) |
+| [0948-bag-of-tokens](https://github.com/Minhaj401/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Minhaj401/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ Each file is typically named after the problem title.
 | [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0948-bag-of-tokens](https://github.com/Minhaj401/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/Minhaj401/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Minhaj401/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -121,11 +123,13 @@ Each file is typically named after the problem title.
 | [0345-reverse-vowels-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0948-bag-of-tokens](https://github.com/Minhaj401/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0948-bag-of-tokens](https://github.com/Minhaj401/Leetcode/tree/master/0948-bag-of-tokens) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Minhaj401/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
