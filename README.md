@@ -47,6 +47,7 @@ Each file is typically named after the problem title.
 | [0071-simplify-path](https://github.com/Minhaj401/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Minhaj401/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Minhaj401/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Minhaj401/Leetcode/tree/master/1544-make-the-string-great) |
@@ -75,6 +76,7 @@ Each file is typically named after the problem title.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Minhaj401/Leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Minhaj401/Leetcode/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/Minhaj401/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Minhaj401/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -176,6 +178,7 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Minhaj401/Leetcode/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Minhaj401/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2079-watering-plants](https://github.com/Minhaj401/Leetcode/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Minhaj401/Leetcode/tree/master/2105-watering-plants-ii) |
