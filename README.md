@@ -105,6 +105,7 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minhaj401/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Minhaj401/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/Minhaj401/Leetcode/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +119,7 @@ Each file is typically named after the problem title.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Minhaj401/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Minhaj401/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minhaj401/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -190,6 +192,7 @@ Each file is typically named after the problem title.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Minhaj401/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Minhaj401/Leetcode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Minhaj401/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -268,4 +271,8 @@ Each file is typically named after the problem title.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minhaj401/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Minhaj401/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
