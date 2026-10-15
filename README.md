@@ -46,6 +46,7 @@ Each file is typically named after the problem title.
 | ------- |
 | [0071-simplify-path](https://github.com/Minhaj401/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Minhaj401/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Minhaj401/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Minhaj401/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Minhaj401/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -73,6 +74,7 @@ Each file is typically named after the problem title.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Minhaj401/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Minhaj401/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Minhaj401/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Minhaj401/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Minhaj401/Leetcode/tree/master/0704-binary-search) |
@@ -151,6 +153,7 @@ Each file is typically named after the problem title.
 | [0202-happy-number](https://github.com/Minhaj401/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Minhaj401/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhaj401/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Minhaj401/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Minhaj401/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Minhaj401/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Minhaj401/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -158,6 +161,7 @@ Each file is typically named after the problem title.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Minhaj401/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Minhaj401/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Math
 |  |
